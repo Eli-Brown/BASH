@@ -1,0 +1,2 @@
+# BASH
+Bashrc Commands
